@@ -27,22 +27,23 @@ Financial dashboards are crucial for:
 - Tools: Power BI, SQL
 
 ## Approach
-- Data Cleaning and Preparation: Ensured data accuracy and completeness using SQL for processing the imported CSV file.
-- Data Visualization: Used Power BI to create interactive dashboards that provide stakeholders with real-time insights into credit card operations.
-- Analysis and Reporting: Focused on visualizing trends and patterns in credit card usage and transactions to support business decisions.
+- **Data Cleaning and Preparation**: Ensured data accuracy and completeness using SQL for processing the imported CSV file.
+- **Data Visualization**: Used Power BI to create interactive dashboards that provide stakeholders with real-time insights into credit card operations.
+- **Analysis and Reporting**: Focused on visualizing trends and patterns in credit card usage and transactions to support business decisions.
 
 ## Dashboards
-1. Credit Card Customer Report
-Features:
-Customer demographics and profiles.
-Spending habits and preferences.
-Usage trends over time.
-2. Credit Card Transaction Report
-Features:
-Transaction volumes and patterns.
-Identification of high-risk transactions.
-Comparative analysis across different time periods.
-Conclusion
+1. **Credit Card Customer Report**
+- Features:
+a. Customer demographics and profiles.
+b. Spending habits and preferences.
+c. Usage trends over time.
+2. **Credit Card Transaction Report**
+- Features:
+a. Transaction volumes and patterns.
+b. Identification of high-risk transactions.
+c. Comparative analysis across different time periods.
+
+## Conclusion
 The "Credit Card Financial Dashboard" project successfully delivers a robust reporting solution that empowers stakeholders with actionable insights into credit card operations. By utilizing SQL and Power BI, the dashboards provide a powerful tool for monitoring performance and driving strategic initiatives.
 
 Access the Report
