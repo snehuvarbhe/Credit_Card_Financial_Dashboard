@@ -5,7 +5,6 @@ The "Credit Card Financial Dashboard" project aims to develop a comprehensive we
 
 ## Objectives
 The primary objective of this project is to create two detailed dashboards:
-
 1. **Credit Card Customer Report**: This dashboard provides insights into customer demographics, spending patterns, and credit card usage, helping to identify trends and opportunities for personalized marketing and customer engagement.
 2. **Credit Card Transaction Report**: This dashboard focuses on transaction analysis, including transaction volumes, types, and potential fraud detection, enabling efficient monitoring of financial activities.
 
