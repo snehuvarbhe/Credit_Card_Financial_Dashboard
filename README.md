@@ -44,5 +44,5 @@ Financial dashboards are crucial for:
 The "Credit Card Financial Dashboard" project successfully delivers a robust reporting solution that empowers stakeholders with actionable insights into credit card operations. By utilizing SQL and Power BI, the dashboards provide a powerful tool for monitoring performance and driving strategic initiatives.
 
 ## Access the Report
-You can view the dashboards and explore the insights by following this link.
-[https://app.powerbi.com/links/-tJZKHB1AO?ctid=8fec39cc-6fa9-4d21-be26-2639e465a925&pbi_source=linkShare](https://app.powerbi.com/groups/me/reports/ac23b1fd-2228-4ea5-8492-a4cd51b89e80/a6adef8dc6621c1a6c7b?experience=power-bi)
+You can view the dashboard and explore the insights by following this link.
+[[Credit Card Dashboards]](https://app.powerbi.com/groups/me/reports/ac23b1fd-2228-4ea5-8492-a4cd51b89e80/a6adef8dc6621c1a6c7b?experience=power-bi)
