@@ -46,3 +46,4 @@ The "Credit Card Financial Dashboard" project successfully delivers a robust rep
 
 ## Access the Report
 You can view the dashboards and explore the insights by following this link.
+https://app.powerbi.com/links/-tJZKHB1AO?ctid=8fec39cc-6fa9-4d21-be26-2639e465a925&pbi_source=linkShare
