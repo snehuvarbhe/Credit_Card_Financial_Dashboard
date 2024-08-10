@@ -12,10 +12,10 @@ The primary objective of this project is to create two detailed dashboards:
 ## Why Financial Dashboards?
 Financial dashboards are crucial for:
 
--- Monitoring key performance indicators (KPIs) in real-time.
--- Identifying trends and patterns in customer behavior and transactions.
--- Enhancing decision-making through data-driven insights.
--- Improving operational efficiency and financial performance.
+- Monitoring key performance indicators (KPIs) in real-time.
+- Identifying trends and patterns in customer behavior and transactions.
+- Enhancing decision-making through data-driven insights.
+- Improving operational efficiency and financial performance.
 
 ## Data Workflow
 1. **Data Import**: A CSV file containing credit card transaction and customer data was imported into SQL to simulate a real-world scenario.
